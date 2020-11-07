@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLiveObserver", "GameOfLiveObserver\GameOfLiveObserver.csproj", "{BE930365-F269-402A-870B-A4DCE940BD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE930365-F269-402A-870B-A4DCE940BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE930365-F269-402A-870B-A4DCE940BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE930365-F269-402A-870B-A4DCE940BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE930365-F269-402A-870B-A4DCE940BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C480E4C3-C63E-41C2-A651-B4A2CF1774BF}
+	EndGlobalSection
+EndGlobal
